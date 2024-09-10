@@ -15,6 +15,14 @@ div.header{
     border-bottom: 4px solid #000000 ;
 }
 
+.search a{
+    font-size: medium;
+    position: relative;
+    padding: 20px;
+    color: #7fffd4;
+    text-transform: uppercase;
+}
+
 p.text{
     font-size: medium;
     font-style: italic;

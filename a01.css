@@ -36,6 +36,10 @@ p.red{
     color: #d62d2dee;
 }
 
+p.purple{
+    color: #800080;
+}
+
 p#small{
     font-size: small;
     font-style: italic;

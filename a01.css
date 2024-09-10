@@ -23,8 +23,20 @@ div.header{
     text-transform: uppercase;
 }
 
-p.text{
+.body{
+    align-items: center;
+    padding: 20px;
+}
+
+p.green{
+    color:#adff2f;
+}
+
+p.red{
+    color: #ff0000;
+}
+
+p#medium{
     font-size: medium;
     font-style: italic;
-    color: #adff2f;
 }

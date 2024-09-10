@@ -15,7 +15,8 @@ div.header{
     border-bottom: 4px solid #000000 ;
 }
 
-p.text{
+p#text{
     font-size: medium;
     font-style: italic;
+    background-color: #adff2f;
 }

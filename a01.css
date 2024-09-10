@@ -3,7 +3,8 @@ body{
     
 }
 
-h1{
+.title{
     font-size: large;
     color: #ffff00;
+    text-align: center;
 }

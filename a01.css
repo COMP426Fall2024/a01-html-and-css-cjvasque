@@ -28,15 +28,15 @@ div.header{
     padding: 20px;
 }
 
-p.green{
+.green{
     color:#adff2f;
 }
 
-p.red{
+.red{
     color: #d62d2dee;
 }
 
-p.purple{
+.purple{
     color: #800080;
 }
 

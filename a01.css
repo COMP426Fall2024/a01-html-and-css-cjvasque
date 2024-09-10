@@ -46,6 +46,10 @@ p#small{
     font-style: italic;
 }
 
+p#medium{
+    font-size: medium;
+}
+
 th.realm{
     background-color: gold;
 }

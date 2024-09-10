@@ -47,9 +47,9 @@ p#small{
 }
 
 th.realm{
-    color: gold;
+    background-color: gold;
 }
 
 th.inhabitant{
-    color: rosybrown;
+    background-color: rosybrown;
 }

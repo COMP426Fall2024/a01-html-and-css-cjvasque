@@ -4,7 +4,13 @@ body{
 }
 
 .title{
+
     font-size: large;
     color: #ffff00;
     text-align: center;
+}
+
+div.header{
+    background-color: #00ffff;
+    border-bottom: 2px solid #000000 ;
 }
